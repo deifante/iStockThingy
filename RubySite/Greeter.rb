@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 class Greeter
   def initialize(name = "World")
     @name = name
